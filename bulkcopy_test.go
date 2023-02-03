@@ -1,5 +1,5 @@
-//go:build go1.9 && !386
-// +build go1.9,!386
+//go:build go1.9
+// +build go1.9
 
 package mssql
 
