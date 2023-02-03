@@ -1,4 +1,4 @@
-module github.com/microsoft/go-mssqldb
+module github.com/ondrejsika/fork-go-mssqldb-32bit-for-slu
 
 go 1.13
 
